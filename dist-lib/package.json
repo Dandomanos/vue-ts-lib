@@ -1,0 +1,25 @@
+{
+  "name": "@gigigo/cds-lib",
+  "description": "Easy Vue Cds integration",
+  "author": {
+    "name": "Dandomanos <jorge.lucas@gigigo.com>"
+  },
+  "version": "0.0.1",
+  "license": "UNLICENSED",
+  "main": "cds-lib.common.js",
+  "unpkg": "cds-lib.common.js",
+  "jsdelivr": "cds-lib.common.js",
+  "peerDependencies": {
+    "vue": ">=2.0.0"
+  },
+  "files": [
+    "*"
+  ],
+  "keywords": [
+    "vue",
+    "cds"
+  ],
+  "publishConfig": {
+    "registry": "http://registry.gigigoapps.com/"
+  }
+}
